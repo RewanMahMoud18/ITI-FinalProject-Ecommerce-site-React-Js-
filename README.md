@@ -32,7 +32,7 @@ Feel free to explore the code to understand how React.js components are organize
 - Product Listings
 - Shopping Cart Functionality
 - User Authentication
-- [Add more features]
+
 
 ## Installation
 
